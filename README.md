@@ -1,6 +1,8 @@
-# Hello-World
-My very first file on GitHub.
+#include<iostream>
+using namespace std;
 
-I hope I will be help a lot.
-
-Thank you!
+int main()
+{
+  cout << "Hello World!" << endl;
+  return 0;
+}
